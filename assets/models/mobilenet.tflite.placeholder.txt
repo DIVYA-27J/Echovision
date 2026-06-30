@@ -1,0 +1,7 @@
+PLACEHOLDER: Download MobileNetV2 SSD COCO TFLite model and replace this file.
+
+Download URL: https://tfhub.dev/tensorflow/lite-model/ssd_mobilenet_v1/1/metadata/2
+File name: mobilenet.tflite
+Place it in: assets/models/mobilenet.tflite
+
+Or use Google ML Kit (no model file needed) — see README.md for details.
